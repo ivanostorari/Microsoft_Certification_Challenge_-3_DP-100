@@ -102,7 +102,5 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 For more information, feel free to reach out!
 
-- Muhammad Zaid Ahmed
-- Email: m.zaidahmed861@gmail.com
-- Twitter: https://twitter.com/mrzaid
-- [Linkedin](https://www.linkedin.com/in/muhammadzaidahmed/)
+- IVAN WAGNER OSTORARI FILHO
+- Email: programadordev41@gmail.com
